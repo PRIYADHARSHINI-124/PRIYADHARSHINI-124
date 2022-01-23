@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PRIYADHARSHINI-124
-- 👀 I’m interested in learning new skills in technology
-- 🌱 I’m currently learning react native for mobile application
+
 - 
 
 <!---
